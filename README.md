@@ -4,6 +4,8 @@ This project Desigened for Arduino Bluetooth control HC-05 module from Android.
 
 Arduino code for Hc-05 module 
 
+
+
 char data = 0;               
 void setup() 
 {
