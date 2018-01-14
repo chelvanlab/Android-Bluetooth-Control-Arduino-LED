@@ -27,8 +27,8 @@ void loop()
 }
 ```
 
-set pin HC-05 module Rx - Arduino Tx 
-set pin HC-05 module Tx - Arduino Rx
-set pin HC-05 module GCC - Arduino GCC
-set pin HC-05 5v = Arduino 5v
+-set pin HC-05 module Rx - Arduino Tx 
+-set pin HC-05 module Tx - Arduino Rx
+-set pin HC-05 module GCC - Arduino GCC
+-set pin HC-05 5v = Arduino 5v
 
