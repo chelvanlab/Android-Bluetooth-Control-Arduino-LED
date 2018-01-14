@@ -27,6 +27,10 @@ void loop()
 }
 ```
 
+Coneection Method Arduino to HC-05 module
 
 set pin HC-05 module Rx - Arduino Tx 
+
 set pin HC-05 module TX - Arduino RX
+
+set GCC-GCC and 5v-5V
