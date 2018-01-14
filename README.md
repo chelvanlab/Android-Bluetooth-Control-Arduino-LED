@@ -4,10 +4,6 @@ This project Desigened for Arduino Bluetooth control HC-05 module from Android.
 
 Arduino code for Hc-05 module 
 
-set pin HC-05 module Rx - Arduino Tx 
-
-set pin HC-05 module TX - Arduino RX
-
 ```
 
 char data = 0;               
@@ -32,3 +28,5 @@ void loop()
 ```
 
 
+set pin HC-05 module Rx - Arduino Tx 
+set pin HC-05 module TX - Arduino RX
